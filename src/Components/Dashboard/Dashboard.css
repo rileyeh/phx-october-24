@@ -1,0 +1,35 @@
+.dash {
+    color: #ff6363;
+}
+
+nav {
+    background: #ff6363;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.link {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+
+button {
+    border-radius: 8px;
+    height: 35px;
+    width: 100px;
+    background: #ff6363;
+    color: white;
+    border: 1px solid lightgrey;
+    font-size: 17px;
+}
+
+button:hover {
+    background: white;
+    border: none;
+    color: black;
+}
